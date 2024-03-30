@@ -1,0 +1,27 @@
+/* Write your code here. */
+.background-container {
+  background-color: white;
+  padding: 5%;
+  height: 100vh;
+}
+.image-sizing {
+  height: 60vh;
+}
+.para-heading {
+  color: #1e293b;
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 80%;
+  margin-bottom: 40px;
+}
+.list-styling {
+  list-style: none;
+  padding: 0px;
+  display: flex;
+}
+.text-styling {
+  color: #64748b;
+  font-family: Roboto;
+  font-weight: 600;
+}

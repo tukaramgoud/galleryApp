@@ -1,0 +1,9 @@
+/* Write your code here. */
+.thumb-image-sizing {
+  margin-right: 15px;
+  opacity: 0.4;
+  cursor: pointer;
+}
+.opacity-zero {
+  opacity: 1;
+}
